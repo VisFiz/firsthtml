@@ -1,7 +1,10 @@
-body{
-  margin:0;
-  font: normal 16px Arial, Helvetica, sand-serif;
-  color:#333;
+body {
+    background-color: #789;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 60px;
+    z-index: 900;
+    position:relative;
 }
 
 h1 {
