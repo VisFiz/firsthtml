@@ -4,6 +4,13 @@ body{
   color:#333;
 }
 
+h1 {
+    text-align: center; 
+}
+h1 span { 
+    background-color: green; 
+}
+
 #particles-js{
   width: 100%;
   height: 100%;
